@@ -1,4 +1,4 @@
-package Ejercicios;
+package CursoAlgoritmosAvanzados;
 
 import java.util.HashSet;
 
